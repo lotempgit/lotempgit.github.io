@@ -1,7 +1,8 @@
-    Perfect Day
-    ===========
-    Lou Reed
-
+---
+Title: Perfect Day
+Artist: Lou Reed
+Author: Lou Reed
+---
 
     [Intro]
     
